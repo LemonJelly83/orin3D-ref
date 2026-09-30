@@ -14,6 +14,7 @@
 | `refs/prologue.png` | 사건 컷 화풍 기준 (프롤로그) | 사건 컷 |
 | `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
 | `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
-| `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 메를린 옆·뒤 설정화 |
+| `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 메를린 옆·뒤 설정화 · 동물 설정화 (2번째로 붙이기) |
+| `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 동물 설정화의 화풍·크기 기준 | 동물 설정화 11장 (1번째로 붙이기) |
 
 새 주문에 참고 그림이 생기면 `refs/`에 더해요.
