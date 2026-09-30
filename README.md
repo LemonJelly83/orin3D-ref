@@ -14,5 +14,6 @@
 | `refs/prologue.png` | 사건 컷 화풍 기준 (프롤로그) | 사건 컷 |
 | `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
 | `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
+| `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 메를린 옆·뒤 설정화 |
 
 새 주문에 참고 그림이 생기면 `refs/`에 더해요.
