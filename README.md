@@ -13,6 +13,19 @@
 | `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
 | `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
 | `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 동물 설정화 (2번째로 붙이기) |
-| `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 동물 설정화의 화풍·크기 기준 | 동물 설정화 11장 (1번째로 붙이기) |
+| `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 동물 설정화의 화풍·크기 기준 | 동물 설정화 11장 · 손님 설정화 5장 (화풍·크기 기준) |
+| `refs/walk_blackmarket.png` | 암상인 컨셉 (사용자 그림, 걷는 옆모습) | 손님 설정화 — 암상인 (1번째) |
+| `refs/walk_woodcutter.png` | 나무꾼 컨셉 (사용자 그림) | 손님 설정화 — 나무꾼 (1번째) · 흉상 — 나무꾼 (2번째) |
+| `refs/walk_night_woman.png` | 밤손님(리아) 컨셉 (사용자 그림) | 손님 설정화 — 리아 (1번째) · 흉상 — 리아 (2번째) |
+| `refs/walk_lady_scholar.png` | 여학자(식물학자) 컨셉 (사용자 그림) | 손님 설정화 — 식물학자 (1번째) · 흉상 — 식물학자 (2번째) |
+| `refs/walk_soldier_f.png` | 여병사 컨셉 (사용자 그림) | 손님 설정화 — 여병사 (1번째) · 흉상 — 여병사 (2번째) |
+| `refs/bust_sheet_blackmarket.png` | 암상인 표정 시트 (사용자 그림) — 흉상 틀 기준 | 흉상 표정 시트 12장 (1번째) |
+| `refs/merlin_front_v2.png` | 메를린 새 정면 설정화 | 흉상 — 메를린 (2번째) |
+| `refs/guest_wanderer.png` | 나그네 설정화 (사용자 그림) | 흉상 — 나그네 (2번째) |
+| `refs/guest_herbalist.png` | 약초꾼 설정화 (사용자 그림) | 흉상 — 약초꾼 (2번째) |
+| `refs/guest_scholar.png` | 학자 설정화 (사용자 그림) | 흉상 — 학자 (2번째) |
+| `refs/guest_granny.png` | 할머니 설정화 (사용자 그림) | 흉상 — 할머니 (2번째) |
+| `refs/guest_child.png` | 아이 설정화 (사용자 그림) | 흉상 — 아이 (2번째) |
+| `refs/geonu_turnaround.png` | 거누 엄마·아기 설정화 (사용자 그림) | 흉상 — 거누 엄마 (2번째) |
 
 새 주문에 참고 그림이 생기면 `refs/`에 더하고, **그 주문의 그림을 다 받으면 그 참고 그림은 지워요** — 여기에는 지금 진행 중인 주문에 쓰는 것만 있어요.
