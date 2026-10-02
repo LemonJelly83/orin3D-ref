@@ -5,28 +5,35 @@
 
 | 파일 | 무엇 | 쓰이는 주문 |
 |---|---|---|
-| `refs/pointer_sheet_raw.png` | 포인터·표지 시트 (지난번 받은 것) — 아이콘 화풍 기준 | 아이콘 전부 (1번째로 붙이기) |
-| `refs/ref_ui_now.png` | 지금 버튼 아이콘 (무엇인지 참고) | 버튼 아이콘 |
-| `refs/ref_items_now.png` | 지금 물건 그림 64종 (무엇인지 참고) | 물건·동전 |
-| `refs/ref_codex_now.png` | 지금 도감 그림 39종 (무엇인지 참고) | 도감 |
-| `refs/prologue.png` | 사건 컷 화풍 기준 (프롤로그) | 사건 컷 |
-| `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
-| `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
-| `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 동물 설정화 (2번째로 붙이기) |
-| `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 동물 설정화의 화풍·크기 기준 | 동물 설정화 11장 · 손님 설정화 5장 (화풍·크기 기준) |
-| `refs/walk_blackmarket.png` | 암상인 컨셉 (사용자 그림, 걷는 옆모습) | 손님 설정화 — 암상인 (1번째) · 흉상 — 암상인 (2번째) |
-| `refs/walk_woodcutter.png` | 나무꾼 컨셉 (사용자 그림) | 손님 설정화 — 나무꾼 (1번째) · 흉상 — 나무꾼 (2번째) |
-| `refs/walk_night_woman.png` | 밤손님(리아) 컨셉 (사용자 그림) | 손님 설정화 — 리아 (1번째) · 흉상 — 리아 (2번째) |
-| `refs/walk_lady_scholar.png` | 여학자(식물학자) 컨셉 (사용자 그림) | 손님 설정화 — 식물학자 (1번째) · 흉상 — 식물학자 (2번째) |
-| `refs/walk_soldier_f.png` | 여병사 컨셉 (사용자 그림) | 손님 설정화 — 여병사 (1번째) · 흉상 — 여병사 (2번째) |
-| `refs/bust_example_a.png` | 흉상 예시 (사용자 그림, 표정 넷) — 흉상 틀·화풍 기준 | 흉상 표정 시트 13장 (1번째) |
+| `refs/bust_example_a.png` | 흉상 예시 (사용자 그림) — 틀·구도·화풍 기준 | (선택) 더 개성 있게 다시 그리기 — 약초꾼 아주머니 (1번째) · 흉상 표정 4가지 — 학자 (1번째) · 외 12건 |
 | `refs/bust_example_b.png` | 흉상 예시 2 (사용자 그림) | 참고 |
-| `refs/merlin_front_v2.png` | 메를린 새 정면 설정화 | 흉상 — 메를린 (2번째) |
-| `refs/guest_wanderer.png` | 나그네 설정화 (사용자 그림) | 흉상 — 나그네 (2번째) |
-| `refs/guest_herbalist.png` | 약초꾼 설정화 (사용자 그림) | 흉상 — 약초꾼 (2번째) |
-| `refs/guest_scholar.png` | 학자 설정화 (사용자 그림) | 흉상 — 학자 (2번째) |
-| `refs/guest_granny.png` | 할머니 설정화 (사용자 그림) | 흉상 — 할머니 (2번째) |
-| `refs/guest_child.png` | 아이 설정화 (사용자 그림) | 흉상 — 아이 (2번째) |
-| `refs/geonu_turnaround.png` | 거누 엄마·아기 설정화 (사용자 그림) | 흉상 — 거누 엄마 (2번째) |
+| `refs/bust_herbalist_got.png` | 받은 약초꾼 아주머니 흉상 — 옷·머리·색 기준 (얼굴은 새로) | (선택) 더 개성 있게 다시 그리기 — 약초꾼 아주머니 (2번째) |
+| `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
+| `refs/guest_botanist.png` | 식물학자 설정화 (받은 것) | 흉상 표정 4가지 — 식물학자 (다솜) (2번째) |
+| `refs/guest_child.png` | 아이 설정화 (받은 것) | 흉상 표정 4가지 — 아이 (가람) (2번째) |
+| `refs/guest_elf.png` | 엘프 설정화 (받은 것) | 흉상 표정 4가지 — 엘프 (2번째) |
+| `refs/guest_farmer.png` | 씨앗장수 설정화 (받은 것) | 흉상 표정 4가지 — 씨앗장수 (2번째) |
+| `refs/guest_geonu_baby.png` | 아기 거누 설정화 (A자, 받은 것) — 얼굴·머리·옷 기준 | 흉상 표정 4가지 — 아기 거누 (2번째) |
+| `refs/guest_geonu_mom.png` | 거누 엄마 설정화 (A자, 받은 것) — 얼굴·머리·옷 기준 | 흉상 표정 4가지 — 거누 엄마 (2번째) |
+| `refs/guest_granny.png` | 할머니 설정화 (받은 것) | 흉상 표정 4가지 — 할머니 (2번째) |
+| `refs/guest_lia.png` | 리아 설정화 (받은 것) | 흉상 표정 4가지 — 리아(밤손님) (2번째) |
+| `refs/guest_merchant.png` | 상인 아저씨 설정화 (받은 것) | 흉상 표정 4가지 — 상인 아저씨 (2번째) |
+| `refs/guest_scholar.png` | 학자 설정화 (받은 것) | 흉상 표정 4가지 — 학자 (2번째) |
+| `refs/guest_soldier.png` | 다친 병사 설정화 (받은 것) | 흉상 표정 4가지 — 다친 병사 (2번째) |
+| `refs/guest_soldier_f.png` | 여병사 설정화 (다시 그려 받은 것) | 흉상 표정 4가지 — 여병사 카야 (2번째) |
+| `refs/guest_woodcutter.png` | 나무꾼 설정화 (받은 것) | 흉상 표정 4가지 — 나무꾼 (2번째) |
+| `refs/icon_sap_flower.png` | 지금의 묘목 아이콘 — 화풍·모양 기준 | 묘목 화분 아이콘 15종 (1번째) |
+| `refs/icon_seed_flower.png` | 지금의 들꽃 씨앗 아이콘 — 화풍·모양 기준 | 씨앗 주머니 아이콘 20종 (1번째) |
+| `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
+| `refs/merlin_front.png` | 메를린 정면 설정화 (3D 모델의 원본) | 토끼 설정화 (앞·옆·뒤) (2번째) · 여우 설정화 (앞·옆·뒤) (2번째) · 외 9건 |
+| `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 화풍·크기 기준 | 토끼 설정화 (앞·옆·뒤) (1번째) · 여우 설정화 (앞·옆·뒤) (1번째) · 외 9건 |
+| `refs/plants_heads.png` | 지금의 꽃송이 8종 — 화풍·크기 기준 | 새 꽃송이 8종 (위에서 본 꽃 머리) (1번째) |
+| `refs/plants_heads16_temp.png` | 임시 그림(아래 두 줄) — 순서 참고 | 새 꽃송이 8종 (위에서 본 꽃 머리) (2번째) |
+| `refs/pointer_sheet_raw.png` | 포인터·표지 시트 (지난번 받은 것) — 화풍 기준 | 물건 2종 ⑥ 주먹밥·털장갑 (새로) (1번째) |
+| `refs/prologue.png` | 사건 컷 화풍 기준 (프롤로그) | 사건 컷 |
+| `refs/ref_codex_now.png` | 지금 도감 그림 39종 (무엇인지 참고) | 도감 |
+| `refs/ref_items_now.png` | 지금의 아이콘들 — 화풍 기준 | 씨앗 주머니 아이콘 20종 (2번째) · 이야기의 물건 아이콘 9종 (1번째) · 물건 2종 ⑥ 주먹밥·털장갑 (새로) (2번째) |
+| `refs/ref_ui_now.png` | 지금 버튼 아이콘 (무엇인지 참고) | 버튼 아이콘 |
+| `refs/trees_parts.png` | 지금의 나무 그림 조각 — 화풍·크기 기준 (3번째 줄이 꽃가지) | 꽃나무 꽃가지 8종 + 열매 3종 (1번째) |
 
 새 주문에 참고 그림이 생기면 `refs/`에 더하고, **그 주문의 그림을 다 받으면 그 참고 그림은 지워요** — 여기에는 지금 진행 중인 주문에 쓰는 것만 있어요.
