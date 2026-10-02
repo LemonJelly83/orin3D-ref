@@ -14,12 +14,13 @@
 | `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
 | `refs/merlin_front.png` | 메를린 정면 설정화 (A자, 3D 모델의 원본) | 동물 설정화 (2번째로 붙이기) |
 | `refs/merlin_turnaround.png` | 메를린 앞·옆·뒤 설정화 (사용자 그림) — 동물 설정화의 화풍·크기 기준 | 동물 설정화 11장 · 손님 설정화 5장 (화풍·크기 기준) |
-| `refs/walk_blackmarket.png` | 암상인 컨셉 (사용자 그림, 걷는 옆모습) | 손님 설정화 — 암상인 (1번째) |
+| `refs/walk_blackmarket.png` | 암상인 컨셉 (사용자 그림, 걷는 옆모습) | 손님 설정화 — 암상인 (1번째) · 흉상 — 암상인 (2번째) |
 | `refs/walk_woodcutter.png` | 나무꾼 컨셉 (사용자 그림) | 손님 설정화 — 나무꾼 (1번째) · 흉상 — 나무꾼 (2번째) |
 | `refs/walk_night_woman.png` | 밤손님(리아) 컨셉 (사용자 그림) | 손님 설정화 — 리아 (1번째) · 흉상 — 리아 (2번째) |
 | `refs/walk_lady_scholar.png` | 여학자(식물학자) 컨셉 (사용자 그림) | 손님 설정화 — 식물학자 (1번째) · 흉상 — 식물학자 (2번째) |
 | `refs/walk_soldier_f.png` | 여병사 컨셉 (사용자 그림) | 손님 설정화 — 여병사 (1번째) · 흉상 — 여병사 (2번째) |
-| `refs/bust_sheet_blackmarket.png` | 암상인 표정 시트 (사용자 그림) — 흉상 틀 기준 | 흉상 표정 시트 12장 (1번째) |
+| `refs/bust_example_a.png` | 흉상 예시 (사용자 그림, 표정 넷) — 흉상 틀·화풍 기준 | 흉상 표정 시트 13장 (1번째) |
+| `refs/bust_example_b.png` | 흉상 예시 2 (사용자 그림) | 참고 |
 | `refs/merlin_front_v2.png` | 메를린 새 정면 설정화 | 흉상 — 메를린 (2번째) |
 | `refs/guest_wanderer.png` | 나그네 설정화 (사용자 그림) | 흉상 — 나그네 (2번째) |
 | `refs/guest_herbalist.png` | 약초꾼 설정화 (사용자 그림) | 흉상 — 약초꾼 (2번째) |
