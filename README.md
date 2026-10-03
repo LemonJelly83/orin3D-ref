@@ -5,22 +5,15 @@
 
 | 파일 | 무엇 | 쓰이는 주문 |
 |---|---|---|
-| `refs/bust_example_a.png` | 흉상 예시 (사용자 그림) — 틀·구도·화풍 기준 | 흉상 표정 4가지 — 학자 (1번째) · 흉상 표정 4가지 — 할머니 (1번째) · 외 11건 |
+| `refs/bust_example_a.png` | 흉상 예시 (사용자 그림) — 틀·구도·화풍 기준 | 흉상 표정 4가지 — 학자 (1번째) · 흉상 표정 4가지 — 엘프 (1번째) · 외 4건 |
 | `refs/bust_example_b.png` | 흉상 예시 2 (사용자 그림) | 참고 |
 | `refs/druid_front.png` | 메를린(드루이드) 설정화 | 사건 컷 |
-| `refs/guest_botanist.png` | 식물학자 설정화 (받은 것) | 흉상 표정 4가지 — 식물학자 (다솜) (2번째) |
-| `refs/guest_child.png` | 아이 설정화 (받은 것) | 흉상 표정 4가지 — 아이 (가람) (2번째) |
 | `refs/guest_elf.png` | 엘프 설정화 (받은 것) | 흉상 표정 4가지 — 엘프 (2번째) |
 | `refs/guest_farmer.png` | 씨앗장수 설정화 (받은 것) | 흉상 표정 4가지 — 씨앗장수 (2번째) |
 | `refs/guest_geonu_baby.png` | 아기 거누 설정화 (A자, 받은 것) — 얼굴·머리·옷 기준 | 흉상 표정 4가지 — 아기 거누 (2번째) |
-| `refs/guest_geonu_mom.png` | 거누 엄마 설정화 (A자, 받은 것) — 얼굴·머리·옷 기준 | 흉상 표정 4가지 — 거누 엄마 (2번째) |
-| `refs/guest_granny.png` | 할머니 설정화 (받은 것) | 흉상 표정 4가지 — 할머니 (2번째) |
-| `refs/guest_lia.png` | 리아 설정화 (받은 것) | 흉상 표정 4가지 — 리아(밤손님) (2번째) |
 | `refs/guest_merchant.png` | 상인 아저씨 설정화 (받은 것) | 흉상 표정 4가지 — 상인 아저씨 (2번째) |
 | `refs/guest_scholar.png` | 학자 설정화 (받은 것) | 흉상 표정 4가지 — 학자 (2번째) |
 | `refs/guest_soldier.png` | 다친 병사 설정화 (받은 것) | 흉상 표정 4가지 — 다친 병사 (2번째) |
-| `refs/guest_soldier_f.png` | 여병사 설정화 (다시 그려 받은 것) | 흉상 표정 4가지 — 여병사 카야 (2번째) |
-| `refs/guest_woodcutter.png` | 나무꾼 설정화 (받은 것) | 흉상 표정 4가지 — 나무꾼 (2번째) |
 | `refs/icon_sap_flower.png` | 지금의 묘목 아이콘 — 화풍·모양 기준 | 묘목 화분 아이콘 15종 (1번째) |
 | `refs/icon_seed_flower.png` | 지금의 들꽃 씨앗 아이콘 — 화풍·모양 기준 | 씨앗 주머니 아이콘 20종 (1번째) |
 | `refs/master_front2.png` | 스승 설정화 | 사건 컷 |
